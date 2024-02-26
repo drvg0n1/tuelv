@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/tuelv/static/css/main.d782d136.css",
-    "main.js": "/tuelv/static/js/main.72b4dcc5.js",
+    "main.js": "/tuelv/static/js/main.e9f99bac.js",
     "static/js/453.72c5670c.chunk.js": "/tuelv/static/js/453.72c5670c.chunk.js",
     "static/media/fa-solid-900.ttf": "/tuelv/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/fa-brands-400.ttf": "/tuelv/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
@@ -13,11 +13,11 @@
     "static/media/fa-v4compatibility.woff2": "/tuelv/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "/tuelv/index.html",
     "main.d782d136.css.map": "/tuelv/static/css/main.d782d136.css.map",
-    "main.72b4dcc5.js.map": "/tuelv/static/js/main.72b4dcc5.js.map",
+    "main.e9f99bac.js.map": "/tuelv/static/js/main.e9f99bac.js.map",
     "453.72c5670c.chunk.js.map": "/tuelv/static/js/453.72c5670c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d782d136.css",
-    "static/js/main.72b4dcc5.js"
+    "static/js/main.e9f99bac.js"
   ]
 }
